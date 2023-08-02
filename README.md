@@ -1,5 +1,5 @@
 # Approver Bot
-This bot is made to approver upcoming join requests with an greeting message.
+This bot is made to approve upcoming join requests with a greeting message.
 
 ## Variables
 ```
